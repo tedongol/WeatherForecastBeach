@@ -56,7 +56,7 @@ public class GetWeather {
         Connection con = null;
         con = FD.getConnection("Staging");
         String query1 = "select distinct beach,postcode,lat,lon from sydney_weather " + condition + " limit 2; ";
-        FD.addValueInDB(con, query1);
+        FD.getResultSet(con, query1);
         System.out.println(query1);
         ResultSet rs = FD.getResultSet(con, query1);
         ArrayList twobeach = new ArrayList();
@@ -85,6 +85,7 @@ public class GetWeather {
             System.out.println("result" + twobeach);
             writer.writeAll(twobeach);
             writer.close();
+
 
         }
         con.close();

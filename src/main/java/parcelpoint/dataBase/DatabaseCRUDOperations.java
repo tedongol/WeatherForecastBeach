@@ -94,7 +94,6 @@ public class DatabaseCRUDOperations {
 		Logger.info("Inside : addValueInDB");
 		try {
 			PreparedStatement preparedStmt = con.prepareStatement(query);
-			//Statement stmt = con.createStatement();
 			Logger.info(sFunName+" : Executing the Query");
 			
 			preparedStmt.execute();

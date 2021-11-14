@@ -7,7 +7,7 @@ formatter.feature({
   "keyword": "Feature"
 });
 formatter.before({
-  "duration": 49680760,
+  "duration": 707935974,
   "status": "passed"
 });
 formatter.scenario({
@@ -44,18 +44,18 @@ formatter.match({
   "location": "GetWeather.Get_the_Weather_report_with_top_postcode_of_Sydney(int)"
 });
 formatter.result({
-  "duration": 43555160202,
+  "duration": 46851304844,
   "status": "passed"
 });
 formatter.match({
   "location": "GetWeather.Pick_bests_suitable_two_spots_based_upon_suitable_weather()"
 });
 formatter.result({
-  "duration": 115599755,
+  "duration": 102271152,
   "status": "passed"
 });
 formatter.after({
-  "duration": 618005,
+  "duration": 243928,
   "status": "passed"
 });
 });
