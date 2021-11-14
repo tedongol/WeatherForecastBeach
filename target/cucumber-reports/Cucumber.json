@@ -1,0 +1,80 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 65175579,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.launch()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "Verify which beach has suitable weather out from the list",
+        "description": "",
+        "id": "beaches-with-suitable-weather;verify-which-beach-has-suitable-weather-out-from-the-list",
+        "after": [
+          {
+            "result": {
+              "duration": 220211,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.quit()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 43548174686,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "Get the Weather report with top 10 postcode of Sydney",
+            "match": {
+              "arguments": [
+                {
+                  "val": "10",
+                  "offset": 32
+                }
+              ],
+              "location": "GetWeather.Get_the_Weather_report_with_top_postcode_of_Sydney(int)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 110735108,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "Pick best suitable two spots based upon suitable weather",
+            "match": {
+              "location": "GetWeather.Pick_bests_suitable_two_spots_based_upon_suitable_weather()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 4,
+            "name": "@Weather"
+          }
+        ]
+      }
+    ],
+    "name": "Beaches with suitable weather",
+    "description": "",
+    "id": "beaches-with-suitable-weather",
+    "keyword": "Feature",
+    "uri": "GetWeather.feature"
+  }
+]

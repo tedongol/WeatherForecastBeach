@@ -56,7 +56,7 @@ public class RESTApi {
                 queryParam("postal_code", postcode).
                 queryParam("country", country).
                 when().
-                post("/v2.0/forecast/daily").
+                get("/v2.0/forecast/daily").
                 then().log().all().assertThat().statusCode(200).contentType(ContentType.JSON).extract().response();
 
         int size = response.jsonPath().getInt("data.size");

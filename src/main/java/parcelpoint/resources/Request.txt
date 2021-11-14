@@ -1,28 +1,130 @@
-Request method:	POST
-Request URI:	http://api.weatherbit.io/v2.0/forecast/daily?Key=7618a9eeba52450e8b6ddcd73cc1b8ee&postal_code=2095&country=AUSTRALIA
+Request method:	GET
+Request URI:	http://api.weatherbit.io/v2.0/forecast/daily?Key=7618a9eeba52450e8b6ddcd73cc1b8ee&postal_code=2010&country=AUSTRALIA
 Proxy:			<none>
 Request params:	<none>
 Query params:	Key=7618a9eeba52450e8b6ddcd73cc1b8ee
-				postal_code=2095
+				postal_code=2010
 				country=AUSTRALIA
 Form params:	<none>
 Path params:	<none>
 Multiparts:		<none>
 Headers:		Accept=*/*
-				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
 Cookies:		<none>
 Body:			<none>
-Request method:	POST
-Request URI:	http://api.weatherbit.io/v2.0/forecast/daily?Key=7618a9eeba52450e8b6ddcd73cc1b8ee&postal_code=2095&country=AUSTRALIA
+Request method:	GET
+Request URI:	http://api.weatherbit.io/v2.0/forecast/daily?Key=7618a9eeba52450e8b6ddcd73cc1b8ee&postal_code=2010&country=AUSTRALIA
 Proxy:			<none>
 Request params:	<none>
 Query params:	Key=7618a9eeba52450e8b6ddcd73cc1b8ee
-				postal_code=2095
+				postal_code=2010
 				country=AUSTRALIA
 Form params:	<none>
 Path params:	<none>
 Multiparts:		<none>
 Headers:		Accept=*/*
-				Content-Type=application/x-www-form-urlencoded; charset=ISO-8859-1
+Cookies:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	http://api.weatherbit.io/v2.0/forecast/daily?Key=7618a9eeba52450e8b6ddcd73cc1b8ee&postal_code=2010&country=AUSTRALIA
+Proxy:			<none>
+Request params:	<none>
+Query params:	Key=7618a9eeba52450e8b6ddcd73cc1b8ee
+				postal_code=2010
+				country=AUSTRALIA
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	http://api.weatherbit.io/v2.0/forecast/daily?Key=7618a9eeba52450e8b6ddcd73cc1b8ee&postal_code=2010&country=AUSTRALIA
+Proxy:			<none>
+Request params:	<none>
+Query params:	Key=7618a9eeba52450e8b6ddcd73cc1b8ee
+				postal_code=2010
+				country=AUSTRALIA
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	http://api.weatherbit.io/v2.0/forecast/daily?Key=7618a9eeba52450e8b6ddcd73cc1b8ee&postal_code=2010&country=AUSTRALIA
+Proxy:			<none>
+Request params:	<none>
+Query params:	Key=7618a9eeba52450e8b6ddcd73cc1b8ee
+				postal_code=2010
+				country=AUSTRALIA
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	http://api.weatherbit.io/v2.0/forecast/daily?Key=7618a9eeba52450e8b6ddcd73cc1b8ee&postal_code=2010&country=AUSTRALIA
+Proxy:			<none>
+Request params:	<none>
+Query params:	Key=7618a9eeba52450e8b6ddcd73cc1b8ee
+				postal_code=2010
+				country=AUSTRALIA
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	http://api.weatherbit.io/v2.0/forecast/daily?Key=7618a9eeba52450e8b6ddcd73cc1b8ee&postal_code=2010&country=AUSTRALIA
+Proxy:			<none>
+Request params:	<none>
+Query params:	Key=7618a9eeba52450e8b6ddcd73cc1b8ee
+				postal_code=2010
+				country=AUSTRALIA
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	http://api.weatherbit.io/v2.0/forecast/daily?Key=7618a9eeba52450e8b6ddcd73cc1b8ee&postal_code=2010&country=AUSTRALIA
+Proxy:			<none>
+Request params:	<none>
+Query params:	Key=7618a9eeba52450e8b6ddcd73cc1b8ee
+				postal_code=2010
+				country=AUSTRALIA
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	http://api.weatherbit.io/v2.0/forecast/daily?Key=7618a9eeba52450e8b6ddcd73cc1b8ee&postal_code=2010&country=AUSTRALIA
+Proxy:			<none>
+Request params:	<none>
+Query params:	Key=7618a9eeba52450e8b6ddcd73cc1b8ee
+				postal_code=2010
+				country=AUSTRALIA
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Accept=*/*
+Cookies:		<none>
+Body:			<none>
+Request method:	GET
+Request URI:	http://api.weatherbit.io/v2.0/forecast/daily?Key=7618a9eeba52450e8b6ddcd73cc1b8ee&postal_code=2010&country=AUSTRALIA
+Proxy:			<none>
+Request params:	<none>
+Query params:	Key=7618a9eeba52450e8b6ddcd73cc1b8ee
+				postal_code=2010
+				country=AUSTRALIA
+Form params:	<none>
+Path params:	<none>
+Multiparts:		<none>
+Headers:		Accept=*/*
 Cookies:		<none>
 Body:			<none>
