@@ -22,6 +22,6 @@ APIURL,http://api.weatherbit.io
 COUNTRY,AUSTRALIA
 APIKEY,7618a9eeba52450e8b6ddcd73cc1b8ee
 environ,Staging
-dburl,jdbc:mysql://staging-db.intranet.pp.com.au:3306/pp_staging
+dburl,jdbc:mysql://staging-db.intranet.pp.com.au:3306/staging_pp
 username,rootdb
-password,password123XXX
+password,XXXXXXXx

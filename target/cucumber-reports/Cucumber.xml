@@ -1,5 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="43.724306">
-<testcase classname="Beaches with suitable weather" name="Verify which beach has suitable weather out from the list" time="43.724306">
+<?xml version="1.0" encoding="UTF-8"?><testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="43.721059">
+<testcase classname="Beaches with suitable weather" name="Verify which beach has suitable weather out from the list" time="43.721059">
 <system-out><![CDATA[When Get the Weather report with top 10 postcode of Sydney..................passed
 Then Pick best suitable two spots based upon suitable weather...............passed
 ]]></system-out>
